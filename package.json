@@ -1,0 +1,26 @@
+{
+  "name": "booking",
+  "version": "1.0.0",
+  "description": "booking tennis courts",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitrepo"
+  },
+  "keywords": [
+    "tennis",
+    "courts",
+    "booking"
+  ],
+  "author": "Dragomir Enachi",
+  "license": "ISC",
+  "devDependencies": {
+    "chromedriver": "^90.0.1",
+    "delay": "^5.0.0",
+    "jest": "^27.0.1",
+    "selenium-webdriver": "^4.0.0-beta.3"
+  }
+}
